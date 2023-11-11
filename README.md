@@ -15,3 +15,5 @@ HTTP Basic Authentication
 * Bruteforce
   
 Honeypot that logs all activity to a text file
+
+Password Generator
